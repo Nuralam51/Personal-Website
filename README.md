@@ -1,3 +1,5 @@
 # Personal-Website
 
-## https://nuralambabu.000webhostapp.com/
+<p align="center">
+  <a href="https://nuralambabu.000webhostapp.com/" target="_blank">Link of website</a>
+</p>
